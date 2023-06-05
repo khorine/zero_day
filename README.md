@@ -1,1 +1,0 @@
-<h3>This is ALX first learning project. </h3>
